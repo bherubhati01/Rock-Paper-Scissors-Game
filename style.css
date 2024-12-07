@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+h1{
+    background-color: rgb(25, 5, 96);
+    color: white;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+.btn-y{
+    margin-bottom: 2rem;
+}
+.btn-you{
+    height: 6.5rem;
+    width: 6.5rem;
+    border-radius: 50%;
+    margin: 3.5px;
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+#btn-ro{
+    background-color: brown;
+    border: 3px solid black;
+}
+#btn-pa{
+    background-color: rgb(42, 83, 165);
+    border: 3px solid black;
+}
+#btn-sc{
+    background-color: rgb(120, 165, 42);
+    border: 3px solid black;
+}
+
+.scro{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 10%;
+    margin-bottom: 3rem;
+}
+
+.com-nu, .you-nu, .tie{
+    font-size: 3rem;
+}
+
+.reset{
+    height: 50px;
+    width:  350px;
+    border-radius: 100px;
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.fl{
+    background-color: white !important;
+    /* color: white; */
+}
